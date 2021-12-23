@@ -7,7 +7,7 @@ L'iconico Button di Youtube rivisitato e "smartizzato" con un contatore di iscri
 
 ### Dipendenze
 Software
-* PlatformIO
+* [PlatformIO](https://platformio.org/platformio-ide "PlatformIO")
 
 Librerie
 * ArduinoJson ( per decodificare i dati da Google )
