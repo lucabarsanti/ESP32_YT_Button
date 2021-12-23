@@ -6,14 +6,14 @@ L'iconico Button di Youtube rivisitato e "smartizzato" con un contatore di iscri
 
 
 ### Dipendenze
-######Software
+Software
 * PlatformIO
 
-######Librerie
+Librerie
 * ArduinoJson ( per decodificare i dati da Google )
 * MD_Parola ( per scrivere i dati sul display )
 
-######API
+API
 * API Key di Google Cloud Platform
 
 ### Lista della spesa (con link)
