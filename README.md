@@ -2,7 +2,7 @@
 
 L'iconico Button di Youtube rivisitato e "smartizzato" con un contatore di iscritti in tempo reale!
 
-![YTButton](https://raw.githubusercontent.com/lucabarsanti/ESP32_YT_Button/master/img/thumb.jpg "YTButton")
+![YTButton](https://raw.githubusercontent.com/lucabarsanti/ESP32_YT_Button/main/img/thumb.jpg "YTButton")
 
 
 ### Dipendenze
