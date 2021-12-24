@@ -42,7 +42,7 @@ board = wemos_d1_mini32
 
 ## Autore
 
-[Luca Barsanti](www.foxsource.it "Luca Barsanti")
+[Luca Barsanti](https://www.foxsource.it "Luca Barsanti")
 
 ## Releases
 
