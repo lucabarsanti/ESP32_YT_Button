@@ -46,5 +46,5 @@ board = wemos_d1_mini32
 
 ## Releases
 
-* 0.1
+* 0.0.1
     * Prima release
